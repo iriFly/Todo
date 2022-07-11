@@ -69,6 +69,4 @@ export class TestData{
       category: TestData.categorie[3],
     },
 
-  ];
-
-}
+  }
